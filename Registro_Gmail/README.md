@@ -1,0 +1,1 @@
+##### Utilizando Gherkin para descrever cenário de Registro de conta no Gmail, assim ajudando com fluxo de registro do começo ao fim.
